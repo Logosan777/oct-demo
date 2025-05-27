@@ -1,0 +1,17 @@
+OCT-DEMO (v3.0 Lite Simulation)  
+Copyright (C) 2025  
+Author: Sanal Ednyashev  
+ORCID: 0009-0005-9802-379X
+
+This repository is provided for academic demonstration purposes only.
+
+You may:
+- View and share this demo
+- Cite the author and repository
+
+You may NOT:
+- Use in commercial applications
+- Modify or extract logic for derivative systems
+- Reverse-engineer or simulate core logic components
+
+All rights reserved. Protected under international law.
