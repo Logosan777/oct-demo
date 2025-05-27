@@ -1,0 +1,10 @@
+This demo simulates the logic of μ(S, Q), Δμ, and τ without any executable backend.
+
+Excluded:
+- Logic solvers
+- Real μ evaluation engine
+- EF-game constructions
+- Graph interpreters
+- Clinical data
+
+Use this demo only to understand the concept layout of the full engine.
